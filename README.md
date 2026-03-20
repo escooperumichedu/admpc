@@ -1,2 +1,4 @@
 # admpc
 Code for "A generative framework for the adaptive decomposition and distributed optimization of model predictive control problems"
+
+![workflow](https://github.com/user-attachments/assets/116eaeda-25c3-4ffe-be24-3532a79be8c4)
